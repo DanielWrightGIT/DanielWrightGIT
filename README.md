@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-My name is Daniel Wright and I am a data analyst currently based in Texas. The purpose of this page is to serve as my portfolio and to track my growth as an analyist. I am currently searching for employment and if any of my work interests you feel free to contact me using the resources below with questions or opportunities. Additionally, I am open to collaborative projects. 
+My name is Daniel Wright and I am a data analyst  based in West Texas. I made this page is to serve as my portfolio and to track my growth as an analyist. I am currently employed by the International Rescue Committee.
 
 
 ## 🏫 Educational background
